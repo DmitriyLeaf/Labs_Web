@@ -1,0 +1,55 @@
+body
+{
+	background: url(image/backgraund_3.jpg) #fc0;
+}
+
+#name
+{
+	color: #000;
+	font-family: ALGERIAN;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	margin: 30px auto -40px;
+}
+
+#autor
+{
+	color: #333;
+	
+	font-family: ALGERIAN;
+	font-weight: bold;
+	font-size: 12px;
+	text-align: right;
+	margin: 50px auto 0px;
+}
+
+#naw_css, #naw_css_2
+{
+	margin: 70px auto 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#bg
+{
+	margin: 70px auto 0px;
+	background-color: rgba(164, 164, 164, 0.5);
+}
+
+#abs 
+{
+	margin: 10px auto 0px;
+    opacity:0.2;
+}
+
+#abs:hover 
+{
+	opacity:1;
+	-webkit-transition: all 1s;
+}
+
+#nps
+{
+	margin: 70px auto 70px;
+}
